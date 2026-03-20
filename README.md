@@ -105,7 +105,7 @@ Building something cool? Working on fintech or data systems? Let's talk.
 
 - 💼 LinkedIn: [linkedin.com/in/kaarthikeya-chitta443](https://www.linkedin.com/in/kaarthikeya-chitta443/)
 - 📧 Email: chittakaarthikeya5@gmail.com
-- 🌐 Portfolio: [Coming Soon]
+- 🌐 Portfolio: https://proj5.lovable.app/
 
 ---
 
