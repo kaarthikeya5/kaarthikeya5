@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hey, I'm Karthik 
+# 👋 Hey, I'm Karthik
 
 ### Data Engineer | Finance Enthusiast | Cloud Architect in the Making
 
@@ -16,7 +16,7 @@
 
 ## 🎯 What I'm About
 
-I'm a first-year Computer Science student who's not just learning to code..I'm learning to build systems that matter. My focus? **Where data engineering meets finance**. Think real-time pipelines, cloud infrastructure, and financial modeling that actually makes sense.
+I'm a first-year Computer Science student who's not just learning to code.. I'm learning to build systems that matter. My focus? **Where data engineering meets finance**. Think real-time pipelines, cloud infrastructure, and financial modeling that actually makes sense.
 
 Currently bridging the gap between tech and finance by building data-driven solutions for real-world financial problems.
 
@@ -38,19 +38,31 @@ Live market sentiment analysis from news and social media—because timing is ev
 
 ## 💼 My Stack
 
-**Languages & Tools**
-```python
-skills = {
-    "languages": ["Python", "C++", "C", "SQL"],
-    "cloud": ["AWS", "Azure", "GCP"],
-    "data_engineering": ["Apache Kafka", "Apache Spark", "Airflow", "ETL Pipelines"],
-    "frameworks": ["Pandas", "NumPy", "FastAPI", "Flask"],
-    "databases": ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
-    "tools": ["Docker", "Git", "Jupyter", "Linux"],
-    "finance": ["Financial Modeling", "Valuation", "Risk Analysis"],
-    "currently_learning": ["Advanced Cloud Architecture", "Yale Finance Courses"]
-}
-```
+**Languages**  
+Python • C++ • C • SQL
+
+**Cloud Platforms**  
+AWS • Azure • GCP
+
+**Data Engineering**  
+Apache Kafka • Apache Spark • Airflow • ETL Pipelines
+
+**Frameworks & Libraries**  
+Pandas • NumPy • FastAPI • Flask
+
+**Databases**  
+PostgreSQL • MySQL • MongoDB • Redis
+
+**Tools & Technologies**  
+Docker • Git • Jupyter • Linux
+
+**Finance**  
+Financial Modeling • Valuation • Risk Analysis
+
+**Currently Learning**  
+Advanced Cloud Architecture • Yale Finance Courses
+
+---
 
 **Focus Areas**
 - ☁️ Cloud Data Engineering (AWS, Azure, GCP)
@@ -69,7 +81,7 @@ skills = {
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 2025 Goals
 
 - [ ] Build production-grade data pipelines on AWS
 - [ ] Complete Yale Finance specialization
@@ -83,7 +95,7 @@ skills = {
 
 > "A man is not shaped by what he achieves, but by what he endures without losing control of who he is."
 
-I'm not trying to wake up a brand new day living the same old self..
+Growth doesn't live in comfort , it lives in discipline and the work rigor..
 
 ---
 
