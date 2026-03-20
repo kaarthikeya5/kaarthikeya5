@@ -81,7 +81,7 @@ Advanced Cloud Architecture • Yale Finance Courses
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - [ ] Build production-grade data pipelines on AWS
 - [ ] Complete Yale Finance specialization
