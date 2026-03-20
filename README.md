@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hey, I'm Patt
+# 👋 Hey, I'm Karthik 
 
 ### Data Engineer | Finance Enthusiast | Cloud Architect in the Making
 
@@ -16,7 +16,7 @@
 
 ## 🎯 What I'm About
 
-I'm a first-year Computer Science student who's not just learning to code—I'm learning to build systems that matter. My focus? **Where data engineering meets finance**. Think real-time pipelines, cloud infrastructure, and financial modeling that actually makes sense.
+I'm a first-year Computer Science student who's not just learning to code..I'm learning to build systems that matter. My focus? **Where data engineering meets finance**. Think real-time pipelines, cloud infrastructure, and financial modeling that actually makes sense.
 
 Currently bridging the gap between tech and finance by building data-driven solutions for real-world financial problems.
 
@@ -56,7 +56,7 @@ skills = {
 - ☁️ Cloud Data Engineering (AWS, Azure, GCP)
 - 📊 Financial Data Systems
 - 🔄 Real-Time Data Pipelines
-- 💰 Quantitative Finance
+- 💰 Private Equity and Investment Banking
 
 ---
 
@@ -69,7 +69,7 @@ skills = {
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - [ ] Build production-grade data pipelines on AWS
 - [ ] Complete Yale Finance specialization
@@ -83,7 +83,7 @@ skills = {
 
 > "A man is not shaped by what he achieves, but by what he endures without losing control of who he is."
 
-I'm not just learning to code—I'm learning to architect solutions that sit at the intersection of data, cloud, and finance. The future belongs to those who can translate business problems into scalable technical systems.
+I'm not trying to wake up a brand new day living the same old self..
 
 ---
 
