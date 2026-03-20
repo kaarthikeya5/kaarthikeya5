@@ -6,8 +6,8 @@
 
 *Building systems that turn data into decisions*
 
-[![Google Certified](https://img.shields.io/badge/Google_Certified-Python-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.google.com)
-[![Microsoft Certified](https://img.shields.io/badge/Microsoft_Certified-Python-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com)
+[![Google Certified](https://img.shields.io/badge/Google_Certified-Python-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/share/4808cc49b4864db1b408148d8a08fc69)
+[![Microsoft Certified](https://img.shields.io/badge/Microsoft_Certified-Python-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)](https://coursera.org/share/2c49c598d5f80bb19cba99b3df57d6ed)
 [![Yale Finance](https://img.shields.io/badge/Yale-Finance_Student-00356B?style=for-the-badge)](https://www.yale.edu)
 
 </div>
@@ -41,9 +41,12 @@ Live market sentiment analysis from news and social media—because timing is ev
 **Languages & Tools**
 ```python
 skills = {
-    "languages": ["Python", "SQL"],
+    "languages": ["Python", "C++", "C", "SQL"],
     "cloud": ["AWS", "Azure", "GCP"],
-    "data_engineering": ["ETL Pipelines", "Data Modeling", "Stream Processing"],
+    "data_engineering": ["Apache Kafka", "Apache Spark", "Airflow", "ETL Pipelines"],
+    "frameworks": ["Pandas", "NumPy", "FastAPI", "Flask"],
+    "databases": ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
+    "tools": ["Docker", "Git", "Jupyter", "Linux"],
     "finance": ["Financial Modeling", "Valuation", "Risk Analysis"],
     "currently_learning": ["Advanced Cloud Architecture", "Yale Finance Courses"]
 }
@@ -53,15 +56,15 @@ skills = {
 - ☁️ Cloud Data Engineering (AWS, Azure, GCP)
 - 📊 Financial Data Systems
 - 🔄 Real-Time Data Pipelines
-- 💰 Private Equity and Investment Banking 
+- 💰 Quantitative Finance
 
 ---
 
 ## 📚 Learning Journey
 
 🎓 **BE Computer Science Engineering** — 1st Year  
-📜 **Google Certified Python Programmer**  
-📜 **Microsoft Certified Python Programmer**  
+📜 **[Google Certified Python Programmer](https://coursera.org/share/4808cc49b4864db1b408148d8a08fc69)**  
+📜 **[Microsoft Certified Python Programmer](https://coursera.org/share/2c49c598d5f80bb19cba99b3df57d6ed)**  
 📖 **Yale Finance Courses** — In Progress  
 
 ---
@@ -78,7 +81,7 @@ skills = {
 
 ## 💡 Philosophy
 
-> "AI won't replace engineers who understand both the tech AND the business. Build systems that solve real problems, not just code that works."
+> "A man is not shaped by what he achieves, but by what he endures without losing control of who he is."
 
 I'm not just learning to code—I'm learning to architect solutions that sit at the intersection of data, cloud, and finance. The future belongs to those who can translate business problems into scalable technical systems.
 
@@ -88,8 +91,8 @@ I'm not just learning to code—I'm learning to architect solutions that sit at 
 
 Building something cool? Working on fintech or data systems? Let's talk.
 
-- 💼 LinkedIn: [Your LinkedIn]
-- 📧 Email: [Your Email]
+- 💼 LinkedIn: [linkedin.com/in/kaarthikeya-chitta443](https://www.linkedin.com/in/kaarthikeya-chitta443/)
+- 📧 Email: chittakaarthikeya5@gmail.com
 - 🌐 Portfolio: [Coming Soon]
 
 ---
