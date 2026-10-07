@@ -1,12 +1,12 @@
-<!-- Animated header -->
+<!-- Animated glass header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:8957E5&height=180&section=header&text=Hi%2C%20I'm%20%5BYour%20Name%5D&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20%C2%B7%20AI%20%C2%B7%20Machine%20Learning&descAlignY=58&descSize=18" alt="header" />
+  <img src="assets/header.svg" alt="Kaarthikeya Chitta — Data / ML / AI Enthusiast from Hyderabad" width="100%" />
 </p>
 
 <!-- Animated typing text -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=600&lines=Data+%2F+AI+%2F+ML+enthusiast+from+India;I+turn+messy+data+into+useful+models;Building+pipelines%2C+not+just+notebooks;Always+learning%2C+always+shipping" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8957E5&center=true&vCenter=true&width=640&lines=Data+%2F+ML+%2F+AI+enthusiast+from+Hyderabad;Building+incremental+pipelines+%26+CDC;Exploring+vector+data+%26+retrieval+pipelines;I+remember+oddly+specific+details" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,11 +14,9 @@
 
 ## 👋 About me <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="26px" alt="wave">
 
-- 🔭 Currently working on **[your current project or research topic]**
-- 🌱 Currently learning **[e.g. LLM fine-tuning, MLOps, distributed training]**
-- 🤝 Looking to collaborate on **[e.g. open-source ML tools, Kaggle teams, research]**
-- 💬 Ask me about **[e.g. data pipelines, model evaluation, Python]**
-- ⚡ Fun fact: **[something memorable about you]**
+<p align="center">
+  <img src="assets/now.svg" width="100%" alt="Currently working on: incremental data processing and Change Data Capture (CDC). Currently learning: CDC and real-time data pipelines; data quality, lineage and observability; vector data engineering and retrieval pipelines. Looking to collaborate on: AI engineering and LLM applications; research; data and ML infrastructure. Fun fact: I remember oddly specific details that nobody expects me to remember." />
+</p>
 
 ---
 
@@ -86,22 +84,22 @@ One-line description of the problem it solves and the result (e.g. 92% accuracy 
 ### [Project Two](https://github.com/your-username/project-two)
 One-line description of what it does and why it's interesting.
 
-![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-8957E5?style=flat-square)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square)
+![CDC](https://img.shields.io/badge/-CDC-8957E5?style=flat-square)
+![Incremental Processing](https://img.shields.io/badge/-Incremental%20Processing-2F81F7?style=flat-square)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square)
 ![Real-time](https://img.shields.io/badge/-Real--time-2EA043?style=flat-square)
 
 ### [Project Three](https://github.com/your-username/project-three)
 One-line description of the pipeline and the scale it handles.
 
-![Data Pipeline](https://img.shields.io/badge/-Data%20Pipeline-8957E5?style=flat-square)
+![Vector DB](https://img.shields.io/badge/-Vector%20DB-8957E5?style=flat-square)
+![Retrieval](https://img.shields.io/badge/-Retrieval-F778BA?style=flat-square)
 ![Apache Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square)
 ![MLOps](https://img.shields.io/badge/-MLOps-0194E2?style=flat-square)
 
 ---
 
-<!-- Animated footer -->
+<!-- Animated glass footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957E5,100:2F81F7&height=100&section=footer" alt="footer" />
+  <img src="assets/footer.svg" width="100%" alt="Thanks for stopping by" />
 </p>
